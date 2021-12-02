@@ -1,6 +1,27 @@
 # COVID-19 Tracker (State-Wise)
+
+## Live [Demo](https://being-rxjs.herokuapp.com/promise)
+
+**Please support this project by simply putting a Github star ⭐. 🙏 Thanks**
+
 # [React](https://reactjs.org/) &middot; [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/facebook/react/blob/main/LICENSE) [![npm version](https://img.shields.io/npm/v/react.svg?style=flat)](https://www.npmjs.com/package/react) [![CircleCI Status](https://circleci.com/gh/facebook/react.svg?style=shield&circle-token=:circle-token)](https://circleci.com/gh/facebook/react) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://reactjs.org/docs/how-to-contribute.html#your-first-pull-request)
 
+Create React apps with no build configuration.
+
+- [Creating an App](#creating-an-app) – How to create a new app.
+- [User Guide](https://facebook.github.io/create-react-app/) – How to develop apps bootstrapped with Create React App.
+
+Create React App works on macOS, Windows, and Linux.<br>
+If something doesn’t work, please [file an issue](https://github.com/facebook/create-react-app/issues/new).<br>
+If you have questions or need help, please ask in [GitHub Discussions](https://github.com/facebook/create-react-app/discussions).
+
+## Quick Overview
+
+```sh
+npx create-react-app my-app
+cd my-app
+npm start
+```
 React is a JavaScript library for building user interfaces.
 
 * **Declarative:** React makes it painless to create interactive UIs. Design simple views for each state in your application, and React will efficiently update and render just the right components when your data changes. Declarative views make your code more predictable, simpler to understand, and easier to debug.
