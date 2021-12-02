@@ -1,6 +1,6 @@
 # COVID-19 Tracker (State-Wise)
 
-## Live [Demo](https://being-rxjs.herokuapp.com/promise)
+## Live [Demo](https://aalokjadhav.github.io/Covid-19_statewise/)
 
 **Please support this project by simply putting a Github star ⭐. 🙏 Thanks**
 
